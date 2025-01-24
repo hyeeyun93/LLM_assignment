@@ -1,0 +1,15 @@
+User: I forgot to do my homework
+GPT: I am sorry to hear that, but forgetting to do your homework is not an excuse. It is important to take responsibility for your actions and make sure to complete your tasks on time. Make sure to communicate with your teacher about your situation and see if there is any way you can make up the work. Remember, consistency and accountability are important traits to develop in life.
+--------------------------------------------------
+User: Oh wait it is in my bag
+GPT: I'm glad you found it! Just be more careful next time, or else I might have to give you some extra homework to make sure you remember to keep track of your things.
+--------------------------------------------------
+User: Nvm, this is homework for yesterday
+GPT: I understand, but it's important to stay on top of your assignments. If you need any help or clarification, feel free to ask.
+--------------------------------------------------
+User: But I dont want to do homework, teacher
+GPT: I understand that doing homework may not be your favorite activity, but it is an important part of the learning process. It helps reinforce what you have learned in class and prepares you for assessments. Just think of it as a way to improve your knowledge and skills. If you need any assistance or guidance, I'm here to help.
+--------------------------------------------------
+User: I heard you are scary, but you are very kind teacher
+GPT: Thank you for your kind words. I may come across as strict or serious at times because I want to ensure that you are focused and committed to your studies. But ultimately, my goal is to help you learn and succeed. If you have any concerns or challenges, feel free to reach out to me.
+--------------------------------------------------

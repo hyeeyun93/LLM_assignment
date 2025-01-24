@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Virtual environment
+llm_venv/
+
+# Temporary test script
+main/simpletest.py
