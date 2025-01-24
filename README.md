@@ -31,14 +31,13 @@ Transformer 모델은 **자연어 처리(NLP)** 및 **시퀀스 데이터 처리
 
 ### 1. Self-Attention
 - 시퀀스의 각 단어가 다른 단어들과 상호작용하며 가중치를 계산합니다.
-- 주요 공식:  
-  \[
-  Attention(Q, K, V) = softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-  \]  
-  - \( Q \): Query (질의)
-  - \( K \): Key (키)
-  - \( V \): Value (값)
-  - \( d_k \): Key의 차원
+- 주요 공식:
+
+  Attention(Q, K, V) = softmax((QK^T) / sqrt(d_k)) V
+  - Q: Query (질의)
+  - K: Key (키)
+  - V: Value (값)
+  - d_k: Key의 차원
 
 ### 2. Positional Encoding
 - Transformer는 순서를 학습하지 못하므로, 입력 데이터에 위치 정보를 추가하여 순서를 인식하게 만듭니다.
